@@ -1,3 +1,7 @@
+---
+title: "Worte ewigen Lebens"
+date: 2025-05-29
+---
 # Worte ewigen Lebens
 
 Das ist eine Sammlung der Worte ewigen Lebens aus dem Johannes-Evangelium.
