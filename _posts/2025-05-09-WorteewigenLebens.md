@@ -7,7 +7,7 @@ Das ist eine Sammlung der Worte ewigen Lebens aus dem Johannes-Evangelium.
 Die Bibelstellen sind der Übersetzung Luther 1912 entnommen.
 Du kannst diesen Text auch ausdrucken: 
 
-[Worte ewigen Lebens aus dem Johannes Evangelium.pdf]([Worte%20ewigen%20Lebens.assets/Worte%20ewigen%20Lebens%20aus%20dem%20Johannes%20Evangel](https://github.com/thomasroser/testpages/blob/main/_files/Worte%20ewigen%20Lebens%20aus%20dem%20Johannes%20Evangelium.pdf))
+[Worte ewigen Lebens aus dem Johannes Evangelium.pdf](https://github.com/thomasroser/testpages/blob/main/_files/Worte%20ewigen%20Lebens%20aus%20dem%20Johannes%20Evangelium.pdf)
 
 > [Johannes 3,14-15]
 14 Und wie Mose in der Wüste eine Schlange erhöht hat, also muß des Menschen Sohn erhöht werden, 15 auf das alle, die an ihn glauben, nicht verloren werden, sondern das ewige Leben haben.
